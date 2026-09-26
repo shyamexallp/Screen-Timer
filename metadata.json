@@ -1,0 +1,6 @@
+{
+  "name": "ChronosGuard - Windows Screen Time & Forced Break Sentinel",
+  "description": "Continuous screen time monitor for Windows with 15-minute forced 2-hour lock, security PIN verification (1234567890), silent system tray agent, and usage trends analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
